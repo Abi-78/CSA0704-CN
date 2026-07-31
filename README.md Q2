@@ -1,0 +1,23 @@
+ Question 2 – Router with Switch and Hub
+
+Aim
+To connect 5 PCs using a Switch and a Hub through a Router in Cisco Packet Tracer.
+
+Devices Used
+- 1 Router
+- 1 Switch
+- 1 Hub
+- 5 PCs
+- Copper Straight-through Cable
+
+Procedure
+1. Place the Router, Switch, Hub, and 5 PCs.
+2. Connect the Router to the Switch.
+3. Connect the Router to the Hub.
+4. Connect all 5 PCs.
+5. Assign IP addresses.
+6. Enable the router interface using `no shutdown`.
+7. Verify connectivity using the `ping` command.
+
+ Result
+The network was successfully configured, and all PCs communicated successfully using the ping command.
