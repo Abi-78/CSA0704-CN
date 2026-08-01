@@ -1,0 +1,16 @@
+Scenario 3 – DHCP Server Configuration
+
+ Objective
+Configure a Server as a DHCP server and assign IP addresses automatically to IoT devices.
+
+Steps Performed
+1. Connected the Server to the Home Gateway.
+2. Configured the Server IP address.
+3. Enabled DHCP Service.
+4. Created a DHCP Pool.
+5. Configured IoT devices to obtain IP addresses automatically using DHCP.
+6. Verified the assigned IP addresses.
+7. Tested connectivity using ping.
+
+ Result
+The Server successfully assigned IP addresses to the devices through DHCP. The devices received IP addresses automatically and network communication was verified using ping.
