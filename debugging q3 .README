@@ -1,0 +1,20 @@
+Scenario 2 – ARP Table Analysis (Smart Home Network)
+
+Objective
+To verify network connectivity using ping and observe ARP table entries.
+
+ Steps Performed
+- Opened PC0 and Server1 Command Prompt.
+- Executed `arp -a` to view the ARP table.
+- Pinged all devices from PC0:
+  - Door (192.168.1.10)
+  - Window (192.168.1.12)
+  - Server1 (192.168.1.1)
+  - Webcam (192.168.1.16)
+  - Webcam1 (192.168.1.13)
+  - Fan (192.168.1.14)
+- Verified all ping responses were successful.
+- Rechecked the ARP table after communication.
+
+Result
+All devices responded successfully (0% packet loss). The ARP table contained the IP-to-MAC address mappings, confirming the network is working correctly.
