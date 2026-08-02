@@ -1,0 +1,14 @@
+Scenario 1 – Home Gateway IoT Network (Ping Debugging)
+
+ Objective
+Identify the IoT device with incorrect IP configuration, fix the issue, and verify network connectivity 
+
+  Steps Performed
+- Tested all IoT devices using Ping (Simulation Mode).
+- Identified the device with IP configuration issue.
+- Corrected the IP configuration.
+- Verified successful ping from the Smartphone.
+- Confirmed the device reconnected to the Home Gateway.
+
+  Result
+All IoT devices responded successfully to ping after fixing the IP configuration.
