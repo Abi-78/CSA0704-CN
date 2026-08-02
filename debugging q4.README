@@ -1,0 +1,15 @@
+Scenario 4 – PDU and ICMP Packet Analysis
+
+Objective
+  To analyze network communication using Simple PDU and observe the ICMP packet flow in Simulation Mode.
+
+Steps Performed
+1. Switched Packet Tracer to Simulation Mode.
+2. Used the Add Simple PDU tool to send a packet between devices.
+3. Observed the packet movement in the Event List.
+4. Opened the PDU information and checked the OSI Model.
+5. Verified the ICMP Echo Request and Echo Reply packets.
+6. Confirmed successful communication between the devices.
+
+Result
+The PDU was transmitted successfully. The ICMP Echo Request and Echo Reply were observed, confirming successful network communication.
